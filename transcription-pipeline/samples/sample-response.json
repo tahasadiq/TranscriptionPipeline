@@ -1,0 +1,8 @@
+{
+  "fullText": "Hi, thanks for calling. How can I help you today?",
+  "durationSeconds": 4.8,
+  "segments": [
+    { "start": 0.0, "end": 2.1, "text": "Hi, thanks for calling." },
+    { "start": 2.1, "end": 4.8, "text": "How can I help you today?" }
+  ]
+}
